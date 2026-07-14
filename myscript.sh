@@ -4,4 +4,4 @@ echo "version 2"
 
 echo "version 3"
 
-echo"Version Aatif1"
+echo" Conflict from Aatif1"
