@@ -6,3 +6,4 @@ echo "version 3"
 
 echo "This is th eupdate from db14"
 
+test for  git pull
